@@ -36,7 +36,7 @@ fijas. No se usa un SoundFont ni se depende de FluidSynth.
 - Pytest 8.4.2 para pruebas.
 - `setuptools<81` por la dependencia `pkg_resources` de `pretty_midi`.
 
-## Instalación en Debian
+## Instalación en Linux
 
 ```bash
 python3 -m venv .venv
